@@ -1,4 +1,4 @@
-                                                                   𝐭𝐚𝐧𝐗_𝐚𝐩𝐩
+                                                                𝐭𝐚𝐧𝐗_𝐚𝐩𝐩
 
 This repository contains a Python application designed to analyze customer orders from an online store. The application performs several key tasks, including:
 
@@ -54,7 +54,7 @@ To clone the repository, use the following command:
 
 ```sh
 git clone https://github.com/ashu10dubey/tanX_app
-cd orders_analysis_tanX
+cd tanX_app
 ```
 
 ## Running the Application
