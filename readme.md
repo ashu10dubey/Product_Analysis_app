@@ -1,4 +1,4 @@
-                                                                𝐭𝐚𝐧𝐗_𝐚𝐩𝐩
+                                                                Product_Analysis_App
 
 This repository contains a Python application designed to analyze customer orders from an online store. The application performs several key tasks, including:
 
@@ -33,7 +33,7 @@ This repository contains a Python application designed to analyze customer order
 - `Dockerfile.test`: Dockerfile for the test service.
 - `docker-compose.yml`: Docker Compose file to build and run the services.
 - `random_orders.csv`: Sample dataset of customer orders.
-- `requirement.txt`: Libraries used in this tanX_app.
+- `requirement.txt`: Libraries used in this  _app.
 - `README.md`: This readme file.
 
 ## Prerequisites
@@ -53,8 +53,8 @@ This repository contains a Python application designed to analyze customer order
 To clone the repository, use the following command:
 
 ```sh
-git clone https://github.com/ashu10dubey/tanX_app
-cd tanX_app
+git clone https://github.com/ashu10dubey/ _app
+cd  _app
 ```
 
 ## Running the Application
@@ -152,8 +152,8 @@ cd tanX_app
 
 This repository provides a comprehensive solution for analyzing customer orders. You can run the application and tests using Docker for a consistent environment or directly on your local machine with Python and Pipenv. Follow the instructions in this README to set up and use the application effectively.
 
-For any issues or contributions, feel free to open an issue or pull request on the [GitHub repository](https://github.com/ashu10dubey/tanX_app).
-## Running the tanX:
+For any issues or contributions, feel free to open an issue or pull request on the [GitHub repository](https://github.com/ashu10dubey/ _app).
+## Running the  :
 ![image](https://github.com/user-attachments/assets/b3dd304a-fd24-456e-98f9-694696369189)
 
 ## Summarize the Test cases:
